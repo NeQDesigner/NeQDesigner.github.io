@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "test",
-    "currentPage": "page6.html",
+    "currentPage": "Witaj.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3398,9 +3398,9 @@
         }
       ]
     },
-    "page6.html": {
+    "Witaj.html": {
       "settings": {
-        "meta_descr": "Website Creator Description",
+        "meta_descr": "",
         "title": "Witaj",
         "order": 6
       },
